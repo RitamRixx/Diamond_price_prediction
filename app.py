@@ -29,6 +29,7 @@ def predict_datapoint():
             cut = request.form.get('cut'),
             color= request.form.get('color'),
             clarity = request.form.get('clarity')
+            
         )
 
         final_data = data.get_data_as_dataframe()
