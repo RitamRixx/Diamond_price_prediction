@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/iNeuron_Projects/Diamond_price_prediction/mlruns/0/14f0df51463a4381a76383fa6fd103c4/artifacts
+end_time: 1708192045101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f0df51463a4381a76383fa6fd103c4
+run_name: marvelous-kite-842
+run_uuid: 14f0df51463a4381a76383fa6fd103c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708192041352
+status: 3
+tags: []
+user_id: ritam

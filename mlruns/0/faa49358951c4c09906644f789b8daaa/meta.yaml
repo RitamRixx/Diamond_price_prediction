@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/iNeuron_Projects/Diamond_price_prediction/mlruns/0/faa49358951c4c09906644f789b8daaa/artifacts
+end_time: 1708192080947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faa49358951c4c09906644f789b8daaa
+run_name: whimsical-mule-366
+run_uuid: faa49358951c4c09906644f789b8daaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708192077167
+status: 3
+tags: []
+user_id: ritam

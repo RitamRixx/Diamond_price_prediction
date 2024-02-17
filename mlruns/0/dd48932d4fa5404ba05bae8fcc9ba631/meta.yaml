@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/iNeuron_Projects/Diamond_price_prediction/mlruns/0/dd48932d4fa5404ba05bae8fcc9ba631/artifacts
+end_time: 1708192127985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd48932d4fa5404ba05bae8fcc9ba631
+run_name: gifted-hound-919
+run_uuid: dd48932d4fa5404ba05bae8fcc9ba631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708192124025
+status: 3
+tags: []
+user_id: ritam
