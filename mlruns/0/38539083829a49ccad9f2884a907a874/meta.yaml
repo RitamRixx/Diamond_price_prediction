@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/iNeuron_Projects/Diamond_price_prediction/mlruns/0/38539083829a49ccad9f2884a907a874/artifacts
+end_time: 1707820150029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38539083829a49ccad9f2884a907a874
+run_name: trusting-sow-100
+run_uuid: 38539083829a49ccad9f2884a907a874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707820146089
+status: 3
+tags: []
+user_id: ritam
