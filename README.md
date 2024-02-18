@@ -143,7 +143,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@ritamrakshit2022@gmail.com](ritamrakshit2022@gmail.com)
+Ritam Rakshit - [ritamrakshit2022@gmail.com](ritamrakshit2022@gmail.com)
 
 
 ## Acknowledgements
